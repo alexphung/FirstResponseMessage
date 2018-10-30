@@ -1,0 +1,53 @@
+Git Basic Commands
+
+//Initialize Local Git Repository
+$ git init 
+
+//Add File(s) to Index
+$ git add <file>
+
+//Check Status of Working Tree
+$ git status 
+or 
+$ git log
+
+//Commit Changes in Index
+$ git commit 
+
+or 
+
+$ git commit -m '<message>'
+
+//Push to Remote Repository
+$ git push
+
+//Pull Latest from Remote Repository
+$ git pull
+
+//Clone Repository into A New Directory
+$ git clone
+
+//Configuration Git
+$ git config --global user.name 'Alex Phung'
+$ git config --global user.email 'alextphung@gmail.com'
+
+//To UnStage source
+$ git rm --cached <file(s)>
+or 
+$ git rm --cached *.<extension>
+or 
+$ git reset
+
+
+// Use of Git Ignore - just add any file(s) in the .gitignore file.
+$ touch .gitignore
+
+example: $ touch log.txt
+
+
+https://github.com/alexphung/OpenWebToken.git
+
+git@github.com:alexphung/OpenWebToken.git
+
+
+
