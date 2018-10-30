@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "74783202163",
+    "firebase_url": "https://fcmresmsg.firebaseio.com",
+    "project_id": "fcmresmsg",
+    "storage_bucket": "fcmresmsg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74783202163:android:bd711598aba71533",
+        "android_client_info": {
+          "package_name": "apps.sea.wa.firstresponsemessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74783202163-0mimln7gcnc9svaobgl93da4gmp40e31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ClXZ3mTtzfU-NHbqRT6UpllchkoSlnk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

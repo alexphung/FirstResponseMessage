@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">First Response Message</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="btn_send">SEND</string>
+    <string name="textView">TextView</string>
+    <string name="DisplayName">Display Name</string>
+    <string name="gpsLocation">GPS Coordinate</string>
+    <string name="messageBody">Message Body</string>
+    <string name="messageTitle">Message Title</string>
+    <string name="google_maps_API_key">AIzaSyAG-mHFbPqP69M5zzbt-cgmS7dzJCzG4QE</string>
+    <string name="btn_map">Map</string>
+</resources>
